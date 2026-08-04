@@ -14,6 +14,7 @@ __pycache__/
 comercio_sec_I/
 comercio_sec_II/
 data/raw/
+data/mix
 
 
 # Ignorar zips en general, PERO permitir el zip oficial del dashboard
